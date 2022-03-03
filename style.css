@@ -244,6 +244,12 @@ body {
     width: 400px;
 }
 
+@media (max-width: 575px) {
+    .contact-button {
+        width: 100%;
+    }
+}
+
 /* Footer */
 .footer {
     background-color: #77287d;
