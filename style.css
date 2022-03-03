@@ -67,6 +67,10 @@ body {
     text-decoration: none;
 }
 
+.menu-item:last-child {
+    margin-right: 0;
+}
+
 .menu-item:hover {
     color: #77287d;
     display: inline-block;
