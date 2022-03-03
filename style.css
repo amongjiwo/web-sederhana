@@ -229,6 +229,12 @@ body {
     width: 400px;
 }
 
+@media (max-width: 575px) {
+    .contact-input {
+        width: 100%;
+    }
+}
+
 .contact-button {
     background-color: #77287d;
     border: none;
