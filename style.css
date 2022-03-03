@@ -103,6 +103,12 @@ body {
     margin-bottom: 0;
 }
 
+@media (max-width: 575px) {
+    .banner-title {
+        font-size: 28px;
+    }
+}
+
 .banner-subtitle {
     color: #595959;
     font-size: 20px;
