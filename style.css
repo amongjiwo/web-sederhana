@@ -263,3 +263,9 @@ body {
     display: flex;
     justify-content: space-between;
 }
+
+@media (max-width: 575px) {
+    .footer .container {
+        flex-direction: column;
+    }
+}
