@@ -84,6 +84,12 @@ body {
     height: 500px;
 }
 
+@media (max-width: 575px) {
+    .banner {
+        height: 250px;
+    }
+}
+
 .banner-container {
     display: flex;
     flex-direction: column;
